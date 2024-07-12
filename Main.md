@@ -1,3 +1,6 @@
+![Antra-logo](https://github.com/user-attachments/assets/9db2d170-9512-4225-b245-e2a71c13f171)
+
+
 # ASSIGNMENT-2
 
 ## Why are closures useful in JavaScript? Give an example use case.
