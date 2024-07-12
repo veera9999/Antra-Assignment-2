@@ -42,7 +42,7 @@ console.log(counter.decrement()); // 1
 console.log(counter.getCount()); // 1
 ```
 
-🎯 **_Function Factories:_** Closures allow you to create dynamic functions by scope and behaviour based on the parameters passed to it. This can be generally observed in other programming languages through method overriding and **polymorphism**.
+🎯 **_Function Factories:_** Closures allow you to create dynamic functions by scope and behaviour based on the parameters passed to it. This can be generally observed in other programming languages through method overloading and **polymorphism**.
 
 ```js
 // function to explain Function factory through closures
