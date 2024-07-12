@@ -2,11 +2,7 @@
 
 # ASSIGNMENT-2
 
-### Why are closures useful in JavaScript?
-
-**Closures:**
-
-Closure is a feature available in Java Script which enables a function to access a variable outside it's lexical scope even after the entity or function enclosing the function that is trying to access the variable has finished execution and has returned.
+============================================================================================
 
 ## Why are closures useful in JavaScript?
 
